@@ -1,0 +1,39 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:layout_width="108dp"
+    android:height="108dp"
+    android:layout_height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+
+    <!-- Background Bulat Warna Teal -->
+    <path
+        android:fillColor="#00897B"
+        android:pathData="M54,0A54,54 0,1 1,0,54,54 54,0 0,1 54,0z" />
+
+    <!-- Kubah Masjid Vektor -->
+    <path
+        android:fillColor="#FFD54F"
+        android:pathData="M54,28 C51,34 44,40 44,48 L64,48 C64,40 57,34 54,28 Z" />
+
+    <!-- Bulan Sabit Atas Kubah -->
+    <path
+        android:fillColor="#FFD54F"
+        android:pathData="M54,20 A3,3 0,1 0,55.5,22.8 A2.5,2.5 0,1 1,54,20 Z" />
+
+    <!-- Buku Terbuka (Simbol Learning/Literasi) -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M28,52 L50,56 L50,78 L28,74 Z" />
+    <path
+        android:fillColor="#E0F2F1"
+        android:pathData="M80,52 L58,56 L58,78 L80,74 Z" />
+
+    <!-- Garis Halaman Buku -->
+    <path
+        android:fillColor="#00897B"
+        android:pathData="M34,60 L46,62 L46,64 L34,62 Z M34,66 L46,68 L46,70 L34,68 Z" />
+    <path
+        android:fillColor="#00897B"
+        android:pathData="M74,60 L62,62 L62,64 L74,62 Z M74,66 L62,68 L62,70 L74,68 Z" />
+</vector>
