@@ -1,6 +1,7 @@
 # Islamic Learning Hub
 
 Aplikasi mobile berbasis Android yang dikembangkan menggunakan **Android Studio** dan **Kotlin** untuk mendukung proses pembelajaran agama Islam secara interaktif.
+Project Android Studio untuk aplikasi Pembelajaran Agama Islam (Masih dalam tahap pengembangan).
 
 ## 📱 Fitur Utama
 * **Dashboard Navigasi:** Memudahkan pengguna berpindah antar menu utama dengan lancar.
