@@ -1,21 +1,37 @@
-# Islamic Learning Hub
+<div align="center">
+  <h1>🕌 Islamic Learning Hub</h1>
+  <p><i>Aplikasi Mobile Pembelajaran Agama Islam Berbasis Android yang Interaktif</i></p>
 
-Aplikasi mobile berbasis Android yang dikembangkan menggunakan **Android Studio** dan **Kotlin** untuk mendukung proses pembelajaran agama Islam secara interaktif.
-Project Android Studio untuk aplikasi Pembelajaran Agama Islam (Masih dalam tahap pengembangan).
+  <!-- Badges Tech Stack -->
+  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin" />
+  <img src="https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white" alt="Android Studio" />
+  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android" />
+</div>
 
-## 📱 Fitur Utama
-* **Dashboard Navigasi:** Memudahkan pengguna berpindah antar menu utama dengan lancar.
-* **Halaman Materi:** Menyajikan konten pembelajaran Islam yang terstruktur.
-* **Kuis Interaktif:** Dilengkapi fitur kuis untuk menguji pemahaman materi pengguna.
+<br>
+
+## 📖 Deskripsi Project
+**Islamic Learning Hub** adalah aplikasi *mobile* berbasis Android yang dikembangkan menggunakan **Kotlin** dan **Android Studio**. Aplikasi ini dirancang untuk mendukung proses pembelajaran agama Islam secara interaktif dan modern. 
+
+> ⚠️ **Status Project:** *Masih dalam tahap pengembangan (Work in Progress).*
+
+## ✨ Fitur Utama
+- [x] **Dashboard Navigasi**: Memudahkan pengguna berpindah antar menu utama dengan antarmuka yang lancar dan responsif.
+- [x] **Halaman Materi**: Menyajikan konten pembelajaran Islam yang terstruktur dan mudah dipahami.
+- [x] **Kuis Interaktif**: Dilengkapi fitur kuis untuk menguji sejauh mana pemahaman pengguna terhadap materi yang telah dipelajari.
 
 ## 🛠️ Teknologi yang Digunakan
-* **Bahasa Pemrograman:** Kotlin
-* **IDE:** Android Studio
-* **Arsitektur:** Activity & Intent Navigation
+| Kategori | Teknologi |
+| :--- | :--- |
+| **Bahasa Pemrograman** | Kotlin |
+| **IDE (Editor)** | Android Studio |
+| **Arsitektur Navigasi** | Activity & Intent Navigation |
+| **Desain UI** | XML Layouts |
 
-## 🚀 Cara Menjalankan Project
-1. Clone repository ini atau download sebagai ZIP.
-2. Buka **Android Studio**.
-3. Pilih *Open an Existing Project* dan arahkan ke folder project ini.
-4. Tunggu proses *Gradle Sync* selesai.
-5. Jalankan aplikasi menggunakan Emulator atau perangkat Android fisik.
+## 🚀 Cara Menjalankan Project Secara Lokal
+Jika Anda ingin menjalankan atau memodifikasi project ini di komputer Anda, ikuti langkah berikut:
+
+1. **Clone Repository**
+   Buka terminal/CMD dan jalankan perintah:
+   ```bash
+   git clone https://github.com/ImtiyazKhaldaAkifah/Islamic-Learning-Hub.git
